@@ -1,0 +1,20 @@
+{
+  "name": "Sarvan Tiwari Kirana Store",
+  "short_name": "ST Kirana",
+  "description": "Local grocery and fresh vegetable store in Aswan Tiwari, Janghai, Jaunpur, Uttar Pradesh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfaf5",
+  "theme_color": "#1a5c2a",
+  "orientation": "portrait-primary",
+  "lang": "en-IN",
+  "categories": ["shopping", "food"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

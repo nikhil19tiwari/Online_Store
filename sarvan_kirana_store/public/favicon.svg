@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="14" fill="#1a5c2a"/>
+  <!-- ST monogram -->
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="central"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, Segoe UI, Arial, sans-serif"
+    font-weight="800"
+    font-size="26"
+    fill="#ffffff"
+    letter-spacing="-1"
+  >ST</text>
+  <!-- Amber accent dot -->
+  <circle cx="50" cy="14" r="5" fill="#f59e0b" opacity="0.9"/>
+</svg>
