@@ -224,12 +224,12 @@ export default function Hero() {
                 aria-label="Chat with Sarvan Tiwari Kirana Store on WhatsApp"
               >
                 <MessageCircle size={16} className="text-[#25d366]" aria-hidden="true" />
-                WhatsApp — {business.phoneNumbers[0]}
+                WhatsApp — {business.phoneNumbers[1]}
               </a>
               <a
                 href={`tel:${business.phoneNumbers[1]}`}
                 className="inline-flex items-center gap-2 text-white/55 hover:text-white/80 text-sm transition-colors focus-visible:outline-2 focus-visible:outline-[#f59e0b] rounded w-fit"
-                aria-label={`Alternate number: ${business.phoneNumbers[1]}`}
+                aria-label={`Alternate number: ${business.phoneNumbers[0]}`}
               >
                 <Phone size={13} aria-hidden="true" />
                 Alt: {business.phoneNumbers[1]}

@@ -15,7 +15,7 @@ const business = {
 
   phoneNumbers: ["9452300979", "7318228879"],
   // WhatsApp number in international format (no +, no spaces)
-  whatsapp: "919452300979",
+  whatsapp: "7318228879",
 
   address: {
     village: "Aswan Tiwari",
