@@ -14,7 +14,7 @@ export const heroSlides = [
     image: picture1,
     alt: "Sarvan Tiwari smiling at the counter of his kirana store in Janghai",
     caption: "Sarvan Tiwari — Your Trusted Kirana Wala",
-    sub: "Serving families in Aswan Tiwari & Janghai with a smile",
+    sub: "Serving families in Aswan Tiwaran & Janghai with a smile",
   },
   {
     id: 2,

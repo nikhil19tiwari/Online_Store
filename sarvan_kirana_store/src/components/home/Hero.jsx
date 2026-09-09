@@ -178,7 +178,7 @@ export default function Hero() {
 
             <p className="text-white/75 text-sm sm:text-base leading-relaxed mb-7 max-w-md animate-fade-in-up delay-200">
               Quality groceries, daily essentials and fresh vegetables for
-              families in Aswan Tiwari, Janghai and nearby areas.
+              families in Aswan Tiwaran, Janghai and nearby areas.
             </p>
 
             {/* Address */}
